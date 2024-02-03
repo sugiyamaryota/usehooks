@@ -1,0 +1,22 @@
+{
+  "name": "usehooks",
+  "version": "1.0.0",
+  "description": "以下のサイトのサンプルを写経する https://usehooks.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugiyamaryota/usehooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugiyamaryota/usehooks/issues"
+  },
+  "homepage": "https://github.com/sugiyamaryota/usehooks#readme",
+  "dependencies": {
+    "@uidotdev/usehooks": "^2.4.1"
+  }
+}
